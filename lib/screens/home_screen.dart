@@ -77,7 +77,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
-                    Text("Kereta Selanjutnya", style: Styles.headLineStyle2,),
+                    Text("Pesawat Selanjutnya", style: Styles.headLineStyle2,),
                     InkWell(
                       onTap: () {
                         print("kamu menekan ini");
